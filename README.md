@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timmy
 - 👀 I’m interested in becoming a developer and building innovative solutions that make a real impact.
-- 🌱 I’m currently learning html,css and jarvascript, and I'm excited to expand my skill set.
+- 🌱 I’m currently learning part of the full stack and I'm excited to expand my skill set.
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on projects that involve web development, front-end design, and problem-solving. If you have an idea or need help with a project, let's connect!
 - 📫 How to reach me :
     Email: joshuatimileyin80@gmail.com,
